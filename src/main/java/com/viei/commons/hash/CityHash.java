@@ -1,5 +1,9 @@
 package com.viei.commons.hash;
-
+/**
+ * 
+ * @author wangwei
+ *
+ */
 public class CityHash {
 
 	private static final long k0 = 0xc3a5c85c97cb3127L;
