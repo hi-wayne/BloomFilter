@@ -18,3 +18,5 @@ Wiki: [Bloom filter](http://en.wikipedia.org/wiki/Bloom_filter), [CityHash](http
 
 ----
 [Keywords: cityhash, bloomfilter]
+
+auth wangwei
